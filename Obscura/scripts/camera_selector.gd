@@ -27,12 +27,15 @@ func _process(_delta):
 				else:
 					cameras[index].current = false
 					cameras[index].draw_camera_logic = false
+		print(cameras[current_controller])
+		print(current_controller)
 		#make sure we have an active controller
 		if cameras[current_controller] == null:
 			for index in len(cameras):
 				if null != cameras[index]:
 					current_controller = index
 					cameras[current_controller].make_current()
+					
 					
 			
 		

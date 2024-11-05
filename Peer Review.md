@@ -21,8 +21,8 @@ If you are in a rare situation where two peer-reviewers are on a single reposito
 
 ## Peer-reviewer Information
 
-* *name:* [your name here] 
-* *email:* [your @ucdavis.edu email address here]
+* *name:* Qingyue Yang
+* *email:* yqmyang@ucdavis.edu
 
 ### Description ###
 
@@ -52,7 +52,7 @@ ___
 
 ### Stage 1 ###
 
-- [ ] Perfect
+- [x] Perfect
 - [ ] Great
 - [ ] Good
 - [ ] Satisfactory
@@ -65,7 +65,7 @@ Write Justification here.
 ___
 ### Stage 2 ###
 
-- [ ] Perfect
+- [x] Perfect
 - [ ] Great
 - [ ] Good
 - [ ] Satisfactory
@@ -78,7 +78,7 @@ Write Justification here.
 ___
 ### Stage 3 ###
 
-- [ ] Perfect
+- [x] Perfect
 - [ ] Great
 - [ ] Good
 - [ ] Satisfactory
@@ -91,7 +91,7 @@ Write Justification here.
 ___
 ### Stage 4 ###
 
-- [ ] Perfect
+- [x] Perfect
 - [ ] Great
 - [ ] Good
 - [ ] Satisfactory

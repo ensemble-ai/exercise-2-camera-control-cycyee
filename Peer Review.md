@@ -104,7 +104,7 @@ Write Justification here.
 ___
 ### Stage 5 ###
 
-- [ ] Perfect
+- [x] Perfect
 - [ ] Great
 - [ ] Good
 - [ ] Satisfactory

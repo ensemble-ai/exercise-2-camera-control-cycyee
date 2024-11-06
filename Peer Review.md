@@ -140,6 +140,8 @@ The namings of conventions are perfect in this assignment, like the Classname is
 ___
 #### Put style guide infractures ####
 
+Here is the guide I used in this assignment: https://docs.godotengine.org/en/stable/tutorials/scripting/gdscript/gdscript_styleguide.html , and also the StyleGuide.md in the course folder.
+
 ___
 
 # Best Practices #

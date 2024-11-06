@@ -131,7 +131,7 @@ Please refer to the first code review template on how to do a permalink.
 
 #### Style Guide Infractions ####
 
-
+You follow the GDScript Style Guide generally with a few problems that might make it better if you can fix it. I noticed that some of your lines are over 100 characters, like this: https://github.com/ensemble-ai/exercise-2-camera-control-cycyee/blob/0996a006663364bd671e7c425acdd24f0c56ac6c/Obscura/scripts/camera_controllers/speedup_push_zone.gd#L38 , it is better to lower the number of characters in a single line to make your code much more understandable. Also, remember to add a space after the "#" when you try to explain something as a comment, like this: https://github.com/ensemble-ai/exercise-2-camera-control-cycyee/blob/0996a006663364bd671e7c425acdd24f0c56ac6c/Obscura/scripts/camera_controllers/lerp_position_lock.gd#L58 . Overall, you did a good job!
 
 #### Style Guide Exemplars ####
 

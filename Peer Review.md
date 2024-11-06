@@ -135,6 +135,8 @@ You follow the GDScript Style Guide generally with a few problems that might mak
 
 #### Style Guide Exemplars ####
 
+The namings of conventions are perfect in this assignment, like the Classname is https://github.com/ensemble-ai/exercise-2-camera-control-cycyee/blob/0996a006663364bd671e7c425acdd24f0c56ac6c/Obscura/scripts/camera_controllers/lerp_position_lock.gd#L1 , and we got the file name "lerp_position_lock.gd", which follows the GDScript Style Guide.
+
 ___
 #### Put style guide infractures ####
 

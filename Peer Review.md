@@ -60,7 +60,7 @@ ___
 
 ___
 #### Justification ##### 
-Write Justification here.
+Nice implementation overall. I do not see any mistakes in this stage, so I pick 'Perfect' for this stage. The control is nice and the cross line looks pretty good for me.
 
 ___
 ### Stage 2 ###
@@ -73,7 +73,7 @@ ___
 
 ___
 #### Justification ##### 
-Write Justification here.
+The scoll of the camera is smooth and the vessel do moving left when it touch the left side of the box. The export fields also meet the requirements. Good job!
 
 ___
 ### Stage 3 ###
@@ -86,7 +86,7 @@ ___
 
 ___
 #### Justification ##### 
-Write Justification here.
+Very smooth! And the arguments are being adjusted satisfied. I love the over all feeling of this stage. Also, all the code part, inlcuding the export fields fully meet the requirement.
 
 ___
 ### Stage 4 ###
@@ -99,7 +99,7 @@ ___
 
 ___
 #### Justification ##### 
-Write Justification here.
+Smooth as stage 3 is. Perfect to meet the requirements in the description of the assignment. 
 
 ___
 ### Stage 5 ###
@@ -112,7 +112,7 @@ ___
 
 ___
 #### Justification ##### 
-Write Justification here.
+Good implementation. All 4 way can being speeding up as required.
 ___
 # Code Style #
 
@@ -130,6 +130,8 @@ Please refer to the first code review template on how to do a permalink.
 
 
 #### Style Guide Infractions ####
+
+
 
 #### Style Guide Exemplars ####
 

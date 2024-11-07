@@ -157,4 +157,11 @@ This should be similar to the Code Style justification.
 
 #### Best Practices Infractions ####
 
+You follow the the style guide of the GDScript very well, but there are few things you need to pay attention to, which could make your code more readable and understandable for other readers. Most of the parts in your assignment is good, but you might need to pay attention on the comments of the code. Some of your code lack of comments, which might lead confusions. 
+
+* Lack of Comment: https://github.com/ensemble-ai/exercise-2-camera-control-cycyee/blob/de3f8172d9ee2f81fc6dfdd2a723ca713b3e0755/Obscura/scripts/camera_controllers/lerp_target_focus.gd#L26-L31 , this block of code is confused and need some time to understand because of the lack of the comments.
+* Unproper Return Value: https://github.com/ensemble-ai/exercise-2-camera-control-cycyee/blob/de3f8172d9ee2f81fc6dfdd2a723ca713b3e0755/Obscura/scripts/camera_controllers/lerp_position_lock.gd#L35 , you can add "->" to declare the return value type of the function, which makes the function much more clear.
+
 #### Best Practices Exemplars ####
+
+* Good Code Order: https://github.com/ensemble-ai/exercise-2-camera-control-cycyee/blob/de3f8172d9ee2f81fc6dfdd2a723ca713b3e0755/Obscura/scripts/camera_controllers/lerp_position_lock.gd#L1-L9 , the code order of your flies are pretty good for me. And it meet the requirement described in the style guide of the GDScript.
